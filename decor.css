@@ -1,0 +1,44 @@
+.one ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color:white;
+}
+
+.one li {
+    float: left;
+}
+
+.one li a {
+    display: block;
+    color: #181819;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+    font-family: Verdana;
+}
+
+.one li a:hover {
+    background-color: #c1c1c9;
+}
+.par1 {
+    text-align: center;
+    display: block;
+    font-family: verdana;
+    font-size: 20px
+}
+.par2 {
+    text-align: center;
+    display: block;
+    font-family:Comic Sans MS;
+    font-size: 20px
+}
+.recent{
+    text-align: center;
+    display: block;
+    font-family: Verdana;
+    text-shadow: 5px 5px 5px #919191;;
+}
+.posts{
+    font-family: Verdana;
+}
